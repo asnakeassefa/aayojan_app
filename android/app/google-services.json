@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617188085479",
+    "project_id": "aayojan-project",
+    "storage_bucket": "aayojan-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617188085479:android:c3e4e98859c258ca17dc42",
+        "android_client_info": {
+          "package_name": "com.aayojan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqINn8hjG4IgbtXGa4oayyAvzx0dY3FUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

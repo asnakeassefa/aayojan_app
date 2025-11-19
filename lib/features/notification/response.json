@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "message": "Notification sent successfully",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 1,
+        "user_id": 1,
+        "title": "New Notification",
+        "description": "This is a new notification",
+        "is_read": 0,
+        "deleted_at": "unread",
+        "created_at": "2021-01-01 12:00:00",
+        "updated_at": "2021-01-01 12:00:00"
+      },
+      {
+        "id": 1,
+        "user_id": 1,
+        "title": "New Notification",
+        "description": "This is a new notification",
+        "is_read": 0,
+        "deleted_at": "unread",
+        "created_at": "2021-01-01 12:00:00",
+        "updated_at": "2021-01-01 12:00:00"
+      }
+    ],
+    "first_page_url": "https://aayojan.co.in/api/event?page=1",
+    "from": 1,
+    "last_page": 2,
+    "last_page_url": "https://aayojan.co.in/api/event?page=2",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://aayojan.co.in/api/event?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": "https://aayojan.co.in/api/event?page=2",
+        "label": "2",
+        "active": false
+      },
+      {
+        "url": "https://aayojan.co.in/api/event?page=2",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "https://aayojan.co.in/api/event?page=2",
+    "path": "https://aayojan.co.in/api/event",
+    "per_page": 10,
+    "prev_page_url": "null",
+    "to": 10,
+    "total": 16
+  }
+}

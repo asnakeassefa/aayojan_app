@@ -1,0 +1,2 @@
+/Users/junior/Documents/projects/aayojan/android/app/.cxx/RelWithDebInfo/3p1d124m/x86/CMakeFiles/edit_cache.dir
+/Users/junior/Documents/projects/aayojan/android/app/.cxx/RelWithDebInfo/3p1d124m/x86/CMakeFiles/rebuild_cache.dir

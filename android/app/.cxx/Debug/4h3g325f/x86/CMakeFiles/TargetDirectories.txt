@@ -1,0 +1,2 @@
+/Users/junior/Documents/projects/aayojan/android/app/.cxx/Debug/4h3g325f/x86/CMakeFiles/edit_cache.dir
+/Users/junior/Documents/projects/aayojan/android/app/.cxx/Debug/4h3g325f/x86/CMakeFiles/rebuild_cache.dir
